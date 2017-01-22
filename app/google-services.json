@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "250526845554",
+    "firebase_url": "https://geniusnine-framework.firebaseio.com",
+    "project_id": "geniusnine-framework",
+    "storage_bucket": "geniusnine-framework.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250526845554:android:888e09b2e7b03d18",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.geniusnineframework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250526845554-79gal2ln8m7p1npotelh18eaku9t1def.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.geniusnineframework",
+            "certificate_hash": "215B742CF16437D3312EF31932E4D5DA0DB46209"
+          }
+        },
+        {
+          "client_id": "250526845554-4562lc0p4kfu2mvqqjgnutfqag2r0unt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlR8jmhpGXJnXviZ5UmhaZ12GhcOP3IhE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250526845554-4562lc0p4kfu2mvqqjgnutfqag2r0unt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
